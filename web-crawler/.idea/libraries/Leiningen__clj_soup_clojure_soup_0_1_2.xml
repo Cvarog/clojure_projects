@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: clj-soup/clojure-soup:0.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/clj-soup/clojure-soup/0.1.2/clojure-soup-0.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
